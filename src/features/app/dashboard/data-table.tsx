@@ -12,7 +12,6 @@ import {
   useReactTable,
   type ColumnDef,
   type ColumnFiltersState,
-  type Row,
   type SortingState,
   type VisibilityState
 } from '@tanstack/react-table';

@@ -186,7 +186,7 @@ export const tableMockData = [
     status: 'In Process',
     target: '24',
     limit: '18',
-    reviewer: 'Maya Johnson'
+    reviewer: 'Kaushik'
   },
   {
     id: 22,
@@ -402,7 +402,7 @@ export const tableMockData = [
     status: 'In Process',
     target: '17',
     limit: '20',
-    reviewer: 'Sarah Johnson'
+    reviewer: 'Kaushik'
   },
   {
     id: 46,

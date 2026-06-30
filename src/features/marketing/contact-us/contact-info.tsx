@@ -6,7 +6,7 @@ const info = [
   {
     icon: MapPinIcon,
     label: 'Office Address',
-    lines: ['Sattvabit Technologies', '123 Tech Park, Ahmedabad', 'Gujarat, India 380015']
+    lines: ['Kaushik Technologies', '123 Tech Park, Ahmedabad', 'Gujarat, India 380015']
   },
   {
     icon: PhoneIcon,
@@ -16,7 +16,7 @@ const info = [
   {
     icon: MailIcon,
     label: 'Email',
-    lines: ['hello@sattvabit.com', 'support@sattvabit.com']
+    lines: ['hello@Kaushik.com', 'support@Kaushik.com']
   },
   {
     icon: ClockIcon,

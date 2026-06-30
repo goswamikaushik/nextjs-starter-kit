@@ -28,7 +28,7 @@ export function PersonalInfoTab() {
             </div>
             <div className="flex flex-col gap-2">
               <Label htmlFor="email">Email Address</Label>
-              <Input id="email" type="email" defaultValue="kaushik.goswami@sattvabit.com" />
+              <Input id="email" type="email" defaultValue="goswamikaushik.dev" />
             </div>
             <div className="flex flex-col gap-2">
               <Label htmlFor="phone">Phone Number</Label>

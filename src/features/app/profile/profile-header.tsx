@@ -29,7 +29,7 @@ export function ProfileHeader() {
             <h1 className="text-2xl font-bold tracking-tight">Kaushik Goswami</h1>
             <Badge variant="secondary">Admin</Badge>
           </div>
-          <p className="text-muted-foreground text-sm">kaushik.goswami@sattvabit.com</p>
+          <p className="text-muted-foreground text-sm">Kaushik.com</p>
           <p className="text-muted-foreground text-sm">Member since January 2024</p>
         </div>
         <Button variant="outline" className="shrink-0 self-center sm:self-start">

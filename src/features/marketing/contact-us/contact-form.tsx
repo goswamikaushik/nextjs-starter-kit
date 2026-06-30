@@ -26,7 +26,7 @@ export function ContactForm() {
           <div className="grid gap-4 sm:grid-cols-2">
             <div className="flex flex-col gap-2">
               <Label htmlFor="first-name">First Name</Label>
-              <Input id="first-name" placeholder="John" required />
+              <Input id="first-name" placeholder="Kaushik" required />
             </div>
             <div className="flex flex-col gap-2">
               <Label htmlFor="last-name">Last Name</Label>
@@ -35,7 +35,7 @@ export function ContactForm() {
           </div>
           <div className="flex flex-col gap-2">
             <Label htmlFor="email">Email Address</Label>
-            <Input id="email" type="email" placeholder="john@example.com" required />
+            <Input id="email" type="email" placeholder="Kaushik@example.com" required />
           </div>
           <div className="flex flex-col gap-2">
             <Label htmlFor="subject">Subject</Label>

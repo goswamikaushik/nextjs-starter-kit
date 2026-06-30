@@ -98,5 +98,5 @@ export const METADATA: Record<string, Metadata> = {
 } as const;
 
 export const SOCIAL_LINKS = {
-  COMPANY_WEBSITE: 'https://www.sattvabit.com/'
+  COMPANY_WEBSITE: 'https://goswamikaushik.dev'
 };

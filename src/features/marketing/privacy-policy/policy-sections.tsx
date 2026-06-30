@@ -7,7 +7,7 @@ const sections = [
   },
   {
     title: '2. How We Use Your Information',
-    body: `We use the information we collect to provide, maintain, and improve our services, process transactions, send you technical notices and support messages, and respond to your comments and questions. We may also use your information to send promotional communications, such as information about products, services, and events offered by Sattvabit, subject to your preferences. We analyze usage data to understand how our services are used and to detect, investigate, and prevent fraudulent transactions and other illegal activities, and to protect the rights and property of Sattvabit and others.`
+    body: `We use the information we collect to provide, maintain, and improve our services, process transactions, send you technical notices and support messages, and respond to your comments and questions. We may also use your information to send promotional communications, such as information about products, services, and events offered by Kaushik, subject to your preferences. We analyze usage data to understand how our services are used and to detect, investigate, and prevent fraudulent transactions and other illegal activities, and to protect the rights and property of Kaushik and others.`
   },
   {
     title: '3. Sharing of Information',
@@ -27,7 +27,7 @@ const sections = [
   },
   {
     title: '7. Your Rights',
-    body: `Depending on your location, you may have certain rights regarding your personal information, such as the right to access, correct, or delete the personal information we hold about you, the right to restrict or object to our processing of your personal information, and the right to data portability. To exercise any of these rights, please contact us at privacy@sattvabit.com. We will respond to your request within 30 days. Please note that we may ask you to verify your identity before responding to such requests.`
+    body: `Depending on your location, you may have certain rights regarding your personal information, such as the right to access, correct, or delete the personal information we hold about you, the right to restrict or object to our processing of your personal information, and the right to data portability. To exercise any of these rights, please contact us at privacy@Kaushik.com. We will respond to your request within 30 days. Please note that we may ask you to verify your identity before responding to such requests.`
   },
   {
     title: '8. Changes to This Policy',
@@ -35,7 +35,7 @@ const sections = [
   },
   {
     title: '9. Contact Us',
-    body: `If you have any questions about this Privacy Policy, please contact us at privacy@sattvabit.com or by mail at Sattvabit Technologies, 123 Tech Park, Ahmedabad, Gujarat, India 380015. We are committed to resolving any complaints about our collection or use of your personal information. We will acknowledge your inquiry within 48 hours and endeavor to resolve any issues as quickly as possible.`
+    body: `If you have any questions about this Privacy Policy, please contact us at privacy@Kaushik.com or by mail at Kaushik Technologies, 123 Tech Park, Ahmedabad, Gujarat, India 380015. We are committed to resolving any complaints about our collection or use of your personal information. We will acknowledge your inquiry within 48 hours and endeavor to resolve any issues as quickly as possible.`
   }
 ];
 

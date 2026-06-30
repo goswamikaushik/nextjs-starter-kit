@@ -30,13 +30,13 @@ const { APP, AUTH, MARKETING } = SITE_ROUTES;
 // This is sample data.
 const data = {
   user: {
-    name: 'Sattvabit',
-    email: 'john@sattvabit.com',
+    name: 'Kaushik',
+    email: 'Kaushik.com',
     avatar: '/avatars/shadcn.jpg'
   },
   teams: [
     {
-      name: 'Sattvabit',
+      name: 'Kaushik',
       logo: <GalleryVerticalEndIcon />,
       plan: 'Enterprise'
     },

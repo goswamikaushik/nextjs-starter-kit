@@ -12,7 +12,7 @@ const Signup = () => {
           <div className="bg-primary text-primary-foreground flex size-6 items-center justify-center rounded-md">
             <GalleryVerticalEndIcon className="size-4" />
           </div>
-          Sattvabit
+          Kaushik
         </Link>
         <SignupForm />
       </div>

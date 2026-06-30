@@ -64,5 +64,6 @@ pnpm build         # Full production build (also runs lint + type-check)
 **NEVER run code generation, schema pulls, type generation, migrations, or any build step the developer should control. Stop and tell the user the exact command to run.**
 
 - Add shadcn component: `pnpm dlx shadcn@latest add <component>`
+- Update / reinstall all shadcn components: `pnpm dlx shadcn@latest add --all --overwrite --yes`
 - Type-check: `pnpm check-types`
 - Full build: `pnpm build`

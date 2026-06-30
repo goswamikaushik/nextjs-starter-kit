@@ -49,6 +49,7 @@ NEXT_PUBLIC_DOMAIN=http://localhost:3000
 | `pnpm check-types` | TypeScript check (no emit)                      |
 
 Add shadcn components: `pnpm dlx shadcn@latest add <component>`
+Update / overwrite all shadcn components: `pnpm dlx shadcn@latest add --all --overwrite --yes`
 
 ---
 
